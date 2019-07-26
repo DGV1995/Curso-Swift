@@ -3,7 +3,7 @@ import UIKit
 // Functions 2
 func myFunction(firstParameter: Int, secondParameter: Int) {
     //
-}
+} 
 
 func myNewFunction(label param: Int) {
     //
